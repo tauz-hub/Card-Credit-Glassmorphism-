@@ -1,6 +1,6 @@
 # Card Credit Glassmorphism
 
-<img src='https://im5.ezgif.com/tmp/ezgif-5-60475671351d.gif'/>
+<img src='https://i.imgur.com/xFDQI1y.gif'/>
 
 ### Access deploy [here](https://tauzxd.github.io/Card-Credit-Glassmorphism-/)
 
